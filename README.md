@@ -9,6 +9,9 @@ Se puede interactuar con un Arduino a través del puerto serial.  Desde processi
 
 
 ###Processing a Arduino
+
+[Acá hay un video](https://www.youtube.com/watch?v=i-Qo8OkwWYc) de como funciona el ejemplo Serial2
+
 <img src="https://github.com/ProcessingTEC/Interactividad/blob/master/P_S5_Serial2/XYPlot.png" width="100">
 
 

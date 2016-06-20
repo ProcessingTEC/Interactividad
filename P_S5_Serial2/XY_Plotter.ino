@@ -35,7 +35,7 @@ void loop() {
 }
 
 
-void se  Serial.println(cmd);rialEvent() {
+void serialEvent() {
   if (Serial.available())
   {
     posX = Serial.parseInt();
